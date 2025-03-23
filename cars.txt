@@ -1,0 +1,6 @@
+01 alto 4 400 0
+1 nano 3 200 0
+2 scorpio 7 1000 1
+3 safari 7 1100 0
+4 xuv 7 900 1
+5 swift 4 500 1
